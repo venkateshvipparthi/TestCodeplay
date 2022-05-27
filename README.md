@@ -8,6 +8,7 @@ Go to device settings -> Passwords
 
 Testing:
 we can send OTP text from any other mobile as text message, as we don't have server to send OTP.
+
 OTP code: 4719
 Valid Code: 4719
 
