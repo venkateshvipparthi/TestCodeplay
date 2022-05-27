@@ -9,10 +9,12 @@ Go to device settings -> Passwords
 Testing:
 we can send OTP text from any other mobile as text message, as we don't have server to send OTP.
 
-OTP code: 4719
+OTP code: 4719 
+
 Valid Code: 4719
 
 The text message  you receive contains word  "code" like 
+
 Example 1: "your passcode is:4719"
 Example 2: "4719 is your code to log in"
 
